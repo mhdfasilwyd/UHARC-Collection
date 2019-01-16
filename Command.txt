@@ -1,0 +1,23 @@
+PASTE THIS COMMAND REPLACING THE FILE FILE LOCATION ALONG WITH THE SYNTAX
+
+-------------------------------------------------------------------------------------
+
+tecuha a -r+ -ed- -pf -mx -mm+ -md32768 filename.uha "location*.*"
+
+-------------------------------------------------------------------------------------
+
+Example in my case 
+
+tecuha a -r+ -ed- -pf -mx -mm+ -md32768 compressed.uha "D:\SOFTS\Game\KarmaData\*.*"
+
+-------------------------------------------------------------------------------------
+
+Input folder is karmaData\
+
+Output folder is compressed.uha
+
+-------------------------------------------------------------------------------------
+
+If you have anu doubt comment below 
+
+For more tech stuff visit www.pcweek.in
