@@ -6,4 +6,4 @@ UHARC is highly recommended to compress large games, which can be divided into m
 
 ## Useful resources 
 
-* [How to Use UHARC](https://www.pcweek.in/2018/08/how-to-use-uharc.html) 
+* [How to Use UHARC](https://bloginoobs.blogspot.com/2019/11/how-to-use-uharc.html) 
